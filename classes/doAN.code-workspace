@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../PHPCoBan/doAN"
+		},
+		{
+			"path": "../../../../../Users/Admin/Downloads/AdminLTE-3.2.0"
+		},
+		{
+			"path": "../../../../../Users/Admin/Documents/DACN2"
+		},
+		{
+			"path": "../../../PHPCoBan"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AdminLTE-3.2.0"
+	}
+}
